@@ -1,0 +1,4 @@
+- Links to github and linkedin
+- Looks nice
+- World map with visitor heat map. Only one visit per IP address is counted
+- "make your mark!" - "You've already made your mark"
